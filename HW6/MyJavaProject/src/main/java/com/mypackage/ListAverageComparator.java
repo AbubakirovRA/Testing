@@ -1,3 +1,5 @@
+package com.mypackage;
+
 import java.util.List;
 
 public class ListAverageComparator {
